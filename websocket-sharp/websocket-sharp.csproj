@@ -12,9 +12,6 @@
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>websocket-sharp.snk</AssemblyOriginatorKeyFile>
-    <FileUpgradeFlags>0</FileUpgradeFlags>
-    <UpgradeBackupLocation>C:\Projects\TVPlay\Backup1\</UpgradeBackupLocation>
-    <OldToolsVersion>14.0</OldToolsVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
